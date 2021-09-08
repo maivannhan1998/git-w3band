@@ -157,7 +157,7 @@ html{
    /* chỉ số % chiều ngang của chính nó (chiều cao lun bằng 1/2 chiều ngang) */
    position: relative;
    padding-top: 50%;
-   background: url('../asset/img/slider/slider1.jpg') top center / cover no-repeat;
+   background: url('../img/slider/slider1.jpg') top center / cover no-repeat;
 }
 
 #slider .text-content {
