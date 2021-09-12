@@ -365,11 +365,11 @@ font-size: 15px;
 
 .contact-info a {
     color: #101aef;
-    opacity: 0.8;
+    opacity: 1;
 }
 
 .contact-info a:hover {
-    opacity: 1;
+    opacity: 0.8;
 }
 
 .contact-form .form-control {

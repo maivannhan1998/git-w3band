@@ -235,7 +235,7 @@ html{
 
 #content .about-text {
     margin-top: 25px;
-    text-align: justify;
+    /* text-align: justify; */
     font-size: 15px;
     line-height: 1.5;
 }
@@ -361,15 +361,6 @@ font-size: 15px;
 
 .contact-form {
     font-size: 15px;
-}
-
-.contact-info a {
-    color: #101aef;
-    opacity: 0.8;
-}
-
-.contact-info a:hover {
-    opacity: 1;
 }
 
 .contact-form .form-control {
