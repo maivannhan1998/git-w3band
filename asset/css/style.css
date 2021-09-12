@@ -384,6 +384,7 @@ font-size: 15px;
     color: #fff;
     background: #000;
     border: none;
+    -webkit-appearance: none;
 }
 
 .form-submit-btn:hover {
